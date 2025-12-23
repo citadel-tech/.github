@@ -18,7 +18,8 @@ We focus on building Bitcoin infrastructure that enhances privacy and decentrali
 |---------|------------|-------------|
 | **Coinswap** | [coinswap](https://github.com/citadel-tech/coinswap) | Functioning, minimal-viable binaries and libraries to perform a trustless, p2p Maxwell-Belcher Coinswap Protocol |
 | **Coinswap-FFI** | [coinswap-ffi](https://github.com/citadel-tech/coinswap-ffi) | FFI Interface for the Coinswap client library |
-| **Taker-App** | [taker-app](https://github.com/citadel-tech/taker-app) | An example Desktop Coinswap Client built in Nodejs using the coinswap-ffi |
+| **Taker-App** | [taker-app](https://github.com/citadel-tech/taker-app) | An example desktop client built in Nodejs using the coinswap-ffi |
+| **Coinswap-Docker** | [coinswap-docker](https://github.com/citadel-tech/coinswap/blob/master/docs/docker.md) | Pre-configured Docker setup with `bitcoind(Mutinynet)`, `Tor`, `makerd`, and `maker-cli`, for quick deployment of makers |
 
 ## Documentation & Research
 
