@@ -4,11 +4,13 @@
 
 **Next Gen Sovereign Tech Stack**
 
-Citadel maintains a set of libraries and binaries around various Bitcoin protocols that aim to improve individual sovereignty in the new world of decentralized internet.
+Citadel maintains a set of libraries and binaries for various Bitcoin protocols, aiming to enhance individual sovereignty in the new digital panopticon.
 
 ## About
 
-We focus on building Bitcoin infrastructure that enhances privacy and decentralization, with **Coinswap** being our flagship implementation of the Maxwell-Belcher coinswap protocol for trustless peer-to-peer atomic swaps.
+We focus on building protocols on top of Bitcoin and other sidechains/L2s that provide a bridge between unconnected layers like Bitcoin, Lightning, Ecash, Liquid, etc, without requiring a trusted third party. These protocols and tools allow more sovereign user access on these layers, reduce centralisation risks while also incentivising node-runners to put their stale liquidity at work to earn more sats. Coinswap, being our first foundational protocol which facilitates the first btc<>btc perr-to-peer decentralised atomic swaps without trusted third parties. The market itself remains censorship-resistant as it's seeded in the Bitcoin blockchain. Anyone with access to a sovereign node can participate in the market. 
+
+While the core protocol only works on the Bitcoin blockchain, a generalised version of the protocol will be used to bridge between multiple layers—increasing liquidity flow across layers, increasing user sovereignty, reducing network centralisation, while also incentivising individual home node-runners.
 
 ## Core Projects
 
