@@ -17,9 +17,8 @@ We focus on building Bitcoin infrastructure that enhances privacy and decentrali
 | Project | Repository | Description |
 |---------|------------|-------------|
 | **Coinswap** | [coinswap](https://github.com/citadel-tech/coinswap) | Functioning, minimal-viable binaries and libraries to perform a trustless, p2p Maxwell-Belcher Coinswap Protocol |
-| **Taker-App** | [taker-app](https://github.com/citadel-tech/taker-app) | GUI for Coinswap Client |
-| **Event Loop** | [Event-Loop](https://github.com/citadel-tech/Event-Loop) | A generic event loop implementation |
-| **Rust Coinselect** | [rust-coinselect](https://github.com/citadel-tech/rust-coinselect) | A blockchain-agnostic coinselection library built in Rust |
+| **Coinswap-FFI** | [coinswap-ffi](https://github.com/citadel-tech/coinswap-ffi) | FFI Interface for the Coinswap client library |
+| **Taker-App** | [taker-app](https://github.com/citadel-tech/taker-app) | An example Desktop Coinswap Client built in Nodejs using the coinswap-ffi |
 
 ## Documentation & Research
 
