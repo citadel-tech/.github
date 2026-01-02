@@ -25,6 +25,14 @@ While the core protocol only works on the Bitcoin blockchain, a generalised vers
 | **Taker-App** | [taker-app](https://github.com/citadel-tech/taker-app) | An example desktop client built in Nodejs using the coinswap-ffi |
 | **Coinswap-Docker** | [coinswap-docker](https://github.com/citadel-tech/coinswap/blob/master/docs/docker.md) | Pre-configured Docker setup with `bitcoind(Mutinynet)`, `Tor`, `makerd`, and `maker-cli`, for quick deployment of makers |
 
+*Auxiliary Infrastructures*
+
+| Project | Repository | Description |
+|---------|------------|-------------|
+| **mill-io** | [mill-io](https://github.com/citadel-tech/mill-io) | A lightweight performant io library in rust, for efficient non-blocking io operations without heavyweight async runtimes |
+| **rust-coinselect** | [rust-coinselect](https://github.com/citadel-tech/rust-coinselect) | A coinselection library in rust to perform CS via multiple algorithms and choose the best result based on waste-metrics, inspired from CS algorithms of Bitcoin Core |
+
+
 ## Documentation & Research
 
 *Protocol specifications and experimental implementations*
