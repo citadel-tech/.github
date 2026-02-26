@@ -22,7 +22,8 @@ While the core protocol only works on the Bitcoin blockchain, a generalised vers
 |---------|------------|-------------|
 | **Coinswap** | [coinswap](https://github.com/citadel-tech/coinswap) | Functioning, minimal-viable binaries and libraries to perform a trustless, p2p [Maxwell-Belcher Coinswap Protocol](https://gist.github.com/chris-belcher/9144bd57a91c194e332fb5ca371d0964) |
 | **Coinswap-FFI** | [coinswap-ffi](https://github.com/citadel-tech/coinswap-ffi) | FFI Interface for the Coinswap client library |
-| **Taker-App** | [taker-app](https://github.com/citadel-tech/taker-app) | An example desktop client built in Nodejs using the coinswap-ffi |
+| **Taker App** | [taker-app](https://github.com/citadel-tech/taker-app) | An example desktop client built in Nodejs using the coinswap-ffi |
+| **Maker Dashboard** | [maker-dashboard](https://github.com/citadel-tech/maker-dasboard) | A GUI dashboard for Maker managements, dockerized to run in home nodes |
 | **Coinswap-Docker** | [coinswap-docker](https://github.com/citadel-tech/coinswap/blob/master/docs/docker.md) | Pre-configured Docker setup with `bitcoind(Mutinynet)`, `Tor`, `makerd`, and `maker-cli`, for quick deployment of makers |
 
 *Auxiliary Infrastructures*
