@@ -47,4 +47,4 @@ While the core protocol only works on the Bitcoin blockchain, a generalised vers
 
 Open source is fundamental to our mission and we would love to connect with you.
 
-Join our [Discord server](https://discord.gg/VSTapAXePb) to discuss development, ask questions, and contribute to advancing Bitcoin sovereignty tools!
+Join our [Matrix server](https://matrix.to/#/#ciatdel-foss:matrix.org) to discuss development, ask questions, and contribute to advancing Bitcoin sovereignty tools!
