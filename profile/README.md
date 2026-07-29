@@ -1,4 +1,4 @@
-# Citadel Tech
+# Citadel FOSS
 
 ![Citadel Tech Logo](./logo.png)
 
