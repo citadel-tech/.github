@@ -12,6 +12,8 @@ Built with love by diverse communities of open source developers from the Global
 
 Coinswap, being our first foundational protocol, facilitates decentralized atomic swaps without trusted third parties.
 
+Website: https://citadelfoss.xyz/
+
 ## Core Projects
 
 *Core libraries and applications*
